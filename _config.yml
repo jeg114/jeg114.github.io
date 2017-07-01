@@ -25,7 +25,8 @@ github_username:  jeg114
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
+#theme: jekyll-theme-leap-day
+theme: minima 
 gems:
   - jekyll-feed
 
