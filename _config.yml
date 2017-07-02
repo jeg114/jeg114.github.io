@@ -103,14 +103,14 @@ icon-144p: "/img/web-app/icon-144p.png"
 icon-192p: "/img/web-app/icon-192p.png"
 
 ########
-# Blog #
+# Projects #
 ########
 
 enable-gesture-navigation: True
 
-post-preview-words: 30
+post-preview-words: 120
 
-paginate: 3
+paginate: 5
 
 email-share: True
 fb-share: True
@@ -123,7 +123,7 @@ pinterest-share: false
 pocket-share: false
 vkontakte-share: false
 
-disqus-shortname: ""
+disqus-shortname: "jesus_e_garcia"
 
 syntax-highlight: True
 
@@ -205,7 +205,7 @@ keybase-in-footer: false
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  Projects: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
