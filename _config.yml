@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hi! Its Jesus, welcome to my portfolio"
-  - text: "Here you can find some of the highlights of my carreer path."
+  - text: "Here you can find some of the highlights of my career path."
   - text: "I chose engineering to "
 
 me-img: "/img/face.jpg"
