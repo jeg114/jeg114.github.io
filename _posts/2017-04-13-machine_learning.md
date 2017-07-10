@@ -17,7 +17,7 @@ All the code and the reports can be found in this Github repository. I have gath
 
 <style type="text/css">
 #wrap {
-   width:600px;
+   width:100%;
    margin:0 auto;
 }
 #left_col {
@@ -40,12 +40,3 @@ All the code and the reports can be found in this Github repository. I have gath
    </div>
 </div>
 
-<div class="col">
-  <img src="/img/ml1.png" alt="" />
-</div>
-<div class="col" markdown="1">
-	* Report 1
-	* Report 1
-	* Report 1
-	* Report 1
-</div>
