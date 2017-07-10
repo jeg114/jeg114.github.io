@@ -132,25 +132,25 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/ARM.jpg"
     date: "April 2017"
     description: "Rejoined ARM for 6 month placement as part of my degree"
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/UKESF.jpg"
     date: "July 2016"
     description: "Obtained UKESF scholarship sponsored by ARM and joined them for summer internship"
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/imperial.png"
     date: "October 2014"
     description: "Started MEng in Electronic and Information Engineering (graduating 2018)"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/piano.jpg"
     date: "June 2014"
     description: "Graduated from music school in Piano"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/grad.jpg"
     date: "June 2014"
     description: "Graduated from the American School of Bilbao"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/baby.jpg"
 
 ###########
 # Contact #
