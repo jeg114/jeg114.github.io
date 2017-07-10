@@ -166,7 +166,7 @@ email: "jesus.garcia-condado14@imperial.ac.uk"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Jesus E. Garcia is a student in "
+author_blurb: "Jesus E. Garcia is a student in Imperial College London. He is taking an MEng in Electronic and Information Engineering and is on track to graduating on 2018 with a first class degree. On his free time he enjoys fencing and playing the piano."
 author_blurb_image: "/img/full_body.png"
 
 ##################
