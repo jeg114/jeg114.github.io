@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: FPGA Virtual Piano
-category: Category
+category: University
 tags: [ '2017', 'FPGA', 'CV' ]
 ---
 As part of my first year at Electronic and Information Engineering we had to complete in pairs a year project which was as fascinating as challenging. The most interesting aspect of this project was that we had to design the project on our own. The only constraints given were that demonstrate knowledge of pipelining and parallelism using a Terasic DE0 board with a Cyclone III FPGA, a camera extension for it and a VGA controlled screen. We were also given as tools the programs Quartus and Calypso Catapult. 
