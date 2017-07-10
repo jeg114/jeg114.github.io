@@ -166,7 +166,7 @@ email: "jesus.garcia-condado14@imperial.ac.uk"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Jesus E. Garcia is a student in Imperial College London. He is taking an MEng in Electronic and Information Engineering and is on track to graduating on 2018 with a first class degree. On his free time he enjoys fencing and playing the piano."
+author_blurb: "Jesus E. Garcia is a student in Imperial College London. He is taking an MEng in Electronic and Information Engineering and is on track to graduating on 2018 with a first class degree. He has also received an UKESF scholarship sponsored by ARM, were he then has taken a 2 month and a 6 month internships. During his free time he enjoys fencing and playing the piano."
 author_blurb_image: "/img/full_body.png"
 
 ##################
@@ -174,12 +174,12 @@ author_blurb_image: "/img/full_body.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
   - title: "linkedin"
     url: "https://linkedin.com/"
   - title: "github"
     url: "https://github.com/jeg114"
+  - title: "facebook"
+    url: "https://facebook.com/"
   - title: "rss"
     url: "/feed.xml"
 
