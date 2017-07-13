@@ -13,6 +13,4 @@ Every group was given a micro-python programable board with a wifi module. We we
 
 My group was given a light and a humidity sensor, which we identifies as essential components for an internet connected plant monitoring system. Since it was an open project we ventured further into adding a servo to be able to automatically water the plant. The final prototype was capable of interacting through an MQTT broker with a server deployed in one computer and a user application in another machine. Through this system the prototype could display the most recent information, as well as the overall status of the plant and even automatically water the plant.
 
-<div class="video-container">
-   <iframe src="//www.youtube.com/embed/ZFxPW8YGl64" width="800" height="450" frameborder="0" allowfullscreen class="video"></iframe>
-</div>
+<iframe src="//www.youtube.com/embed/ZFxPW8YGl64" width="80%" height="450" frameborder="0" allowfullscreen class="video"></iframe>
