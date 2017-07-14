@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Jesus Erlantz Garcia Condado"
-title: "{ Jesus E. Garcia}"
+title: "{Jesus E. Garcia}"
 description: "Welcome to my portfolio, a space to share some background on myself, my story, my puspose and my ambitions"
 keywords: "Jesus, Erlantz, Garcia, portfolio, cv"
 favicon: "/img/pirate_favicon.ico"
