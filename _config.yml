@@ -51,9 +51,9 @@ dynamic-typing: True
 shuffle: False # Shuffle the lines.
 loop: False
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
-start-delay: 200
-delete-delay: 5000
+type-speed: 25
+start-delay: 150
+delete-delay: 3000
 lines: # You can add HTML Tags in the Text
   - text: "Hi! Its Jesus, welcome to my portfolio"
   - text: "Here you can find some of the highlights of my career path, as well as projects that have shaped my professional skills"
