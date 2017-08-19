@@ -57,7 +57,7 @@ delete-delay: 3000
 lines: # You can add HTML Tags in the Text
   - text: "Hi! Its Jesus, welcome to my portfolio"
   - text: "Here you can find some of the highlights of my career path, as well as projects that have shaped my professional skills"
-  - text: "I chose engineering to empower myself to positevely contribute to society. My personal vision statement is to grow as a professional by taking whatever challenge my contribution requires"
+  - text: "I chose engineering to empower myself to positively contribute to society. My personal vision statement is to grow as a professional by taking whatever challenge my contribution requires"
 
 me-img: "/img/face.jpg"
 
